@@ -1,0 +1,67 @@
+	/*README*/
+	
+.Container{
+	/*http://feelgrafix.com/data_images/out/3/753878-blue-background.jpg*/
+	background-image:url(../img/blue_background.jpg);
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 540px;
+}
+
+
+h3{
+
+	color: white;
+}
+
+.row{
+	border: solid;
+	border-width: 1px;
+	border-color: white;
+	background-color: rgba(255, 255, 255, 0.6);
+	border-radius: 5px;
+	padding-left: 10px;
+	margin-bottom: 4px;
+	width: 500px;
+	
+}
+
+.text{
+	height: 25px;
+	width: 280px;
+	margin-top: 10px;
+    display:inline-block;
+    vertical-align:middle;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.textMulti{
+	width: 280px;
+	margin-top: 10px;
+    display:inline-block;
+    vertical-align:middle;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.divbuybutton{
+	text-align: center;
+}
+.inputbuybtn{
+	color: white;
+	background-color: black;
+    border-radius: 15px;
+    border-style: none;
+    width: 100px;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+}
+.lblLabel{
+	margin-top: 11px;
+	display: inline-block;
+	width: 110px;
+	text-align: left;
+	vertical-align: top;
+}
